@@ -1,33 +1,23 @@
 # Hi, I'm Shiva Augusta 👋
 
 ### 🚀 Machine Learning Engineer | Transforming Data into Insights
-I am a Machine Learning Engineer with 1+ years of experience building optimized systems and conducting high-impact research. My expertise lies in transforming complex, imbalanced datasets into reliable predictive models using ensemble learning and Bayesian optimization.
+I am a Machine Learning Engineer with 1+ years of experience focused on transforming complex data into measurable business value. I don't just build models; I build solutions to fix business problems, reduce operational risks, and optimize strategic decision-making.
+
+**My Portfolio Website:** [shivaaugusta.website](https://shivaaugusta.notion.site/Shiva-Augusta-Portfolio-3070e4ea157380389d41cb0e640b5105?source=copy_link)
 
 ---
 
-### 🎯 Vision & Mission
-- **Vision:** To develop transparent and ethical AI solutions that minimize risk and deliver measurable business value.
-- **Mission:**
-  - 🔬 **Research:** Validating and reproducing state-of-the-art ML methodologies (ACM conferences standard).
-  - 🛠 **Optimize:** Refining model performance through hyperparameter tuning (Optuna/Bayesian) and robust imbalance handling (SMOTE/ADASYN).
-  - 📈 **Solve:** Bridging the gap between raw data and actionable business strategy through high-precision modeling.
+### 🎯 My Strategic Approach
+- **Analyze:** Breaking down complex business puzzles using data-driven methodologies (Fishbone & 5 Whys).
+- **Optimize:** Refining model performance to maximize ROI, minimize costs, and ensure high precision.
+- **Validate:** Leveraging a strong research background to ensure every solution is reliable and reproducible.
 
 ---
 
-### 🛠 Technical Stack
-- **Languages:** Python, SQL. 
-- **AI/ML:** Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost. 
-- **Core Methodologies:** Ensemble & Hybrid Models, Feature Engineering, Bayesian Optimization, CNN-BILSTM. 
-- **Data Engineering & Viz:** Pandas, NumPy, Looker Studio, Matplotlib, Seaborn, Streamlit. 
-
----
-
-### 📫 Connect with Me
-- **Email:** [shivaaugusta98@gmail.com](mailto:shivaaugusta98@gmail.com) 
-- **LinkedIn:** [linkedin.com/in/shivaaugusta](https://www.linkedin.com/in/shivaaugusta) 
-- **LeetCode:** [leetcode.com/u/r7zfqxhd55/](https://leetcode.com/u/r7zfqxhd55/)
-- **Medium/Blog:** [shivaaugusta.website](https://medium.com/@shivaaugusta98)
-
+### 🛠 Technical Toolkit
+- **Data Engineering:** Python (Pandas, NumPy), Robust Data Preprocessing.
+- **Analytics:** SQL (Advanced Querying), Looker Studio, Excel (Pivot & Task Tracking).
+- **Machine Learning:** Scikit-learn, TensorFlow, XGBoost, Model Optimization.
 ---
 
 ### ⚡ Fun Fact
