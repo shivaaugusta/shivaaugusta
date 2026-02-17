@@ -1,7 +1,7 @@
 # Hi, I'm Shiva Augusta 👋
 
-### 🚀 Machine Learning Engineer | Transforming Data into Insights
-I am a Machine Learning Engineer with 1+ years of experience focused on transforming complex data into measurable business value. I don't just build models; I build solutions to fix business problems, reduce operational risks, and optimize strategic decision-making.
+### 🚀 Data & Machine Learning Engineer | Transforming Data into Insights
+Focused on transforming complex data into measurable business value. I don't just build models, I build solutions to fix business problems, reduce operational risks, and optimize strategic decision-making.
 
 **My Portfolio Website:** [shivaaugusta.website](https://shivaaugusta.notion.site/Shiva-Augusta-Portfolio-3070e4ea157380389d41cb0e640b5105?source=copy_link)
 
@@ -15,8 +15,8 @@ I am a Machine Learning Engineer with 1+ years of experience focused on transfor
 ---
 
 ### 🛠 Technical Toolkit
-- **Data Engineering:** Python (Pandas, NumPy), Robust Data Preprocessing.
-- **Analytics:** SQL (Advanced Querying), Looker Studio, Excel (Pivot & Task Tracking).
+- **Data Engineering:** Python, Data Preprocessing.
+- **Analytics:** SQL, Looker Studio, Excel.
 - **Machine Learning:** Scikit-learn, TensorFlow, XGBoost, Model Optimization.
 ---
 
