@@ -1,6 +1,6 @@
 # Hi, I'm Shiva Augusta 👋
 
-### 🚀 Machine Learning Engineer & Research Specialist
+### 🚀 Machine Learning Engineer | Transforming Data into Insights
 I am a Machine Learning Engineer with 1+ years of experience building optimized systems and conducting high-impact research. My expertise lies in transforming complex, imbalanced datasets into reliable predictive models using ensemble learning and Bayesian optimization.
 
 ---
